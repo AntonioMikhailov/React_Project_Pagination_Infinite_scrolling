@@ -1,0 +1,58 @@
+  * {
+    font-family: Arial;
+    box-sizing:border-box;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+  html, body {
+    height: 100%;
+    
+  }
+  header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  background-color: rgb(143, 143, 143); 
+   color: rgb(255, 255, 255);
+     margin: 0px 0px 30px 0px;
+     padding: 10px 20px 10px 20px;
+  }
+  .container {
+   max-width:1200px;
+   margin: 0 auto;
+   padding: 0px 20px 40px 20px;
+ 
+   }
+ .contentWrapper {
+    padding: 20px;
+    background-color: rgb(233, 233, 233);
+    font-size: 16px;
+   height: 100%;
+  }
+   .itemWrapper p {
+    font-size: 16px;
+   
+   }
+   .listItem {
+   margin: 0px 0px 25px 0px;
+   padding: 10px;
+    background-color: rgb(184, 184, 184);
+   }
+   .itemEmail {
+     
+    font-size: 16px;
+    color: rgb(142, 15, 15);
+    margin: 5px 0px 5px 0px;
+ 
+   }
+   .itemEmail p {
+  display: inline-block;
+    text-decoration: none;
+    margin: 0px 10px 25px 0px;
+    color: rgb(147, 147, 147);
+    font-size: 25px;
+    
+   }
+ 
+   
